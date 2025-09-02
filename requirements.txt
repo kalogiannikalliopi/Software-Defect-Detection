@@ -1,0 +1,14 @@
+# Core scientific stack
+numpy
+pandas
+
+# Machine learning
+scikit-learn
+imbalanced-learn
+
+# Visualization
+matplotlib
+
+# Jupyter + Widgets
+notebook
+ipywidgets
